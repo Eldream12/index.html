@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eldream12 [Daniel Onyah].
-- 👀 I’m interested in growing and evolving technologically.
+- 👀 I’m interested in growth and technological advamcement.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on all frontend development projects.
 - 📫 You can reach me via email: onyahdaniel22@gmail.com .
